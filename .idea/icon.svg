@@ -1,0 +1,21 @@
+<svg width="16" height="16" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0,4 A4,4,0,0,1,4,0 v4 Z" fill="red"/>
+    <rect x="12" y="4" width="4" height="4" fill="red"/>
+    <rect x="4" y="8" width="4" height="4" fill="red"/>
+    <rect x="8" y="12" width="4" height="4" fill="red"/>
+
+    <path d="M12,0 A4,4,0,0,1,16,4 h-4 Z" fill="blue"/>
+    <rect x="4" y="4" width="4" height="4" fill="blue"/>
+    <rect x="8" y="8" width="4" height="4" fill="blue"/>
+    <path d="M0,12 A4,4,0,0,0,4,16 v-4 Z" fill="blue"/>
+
+    <rect x="8" y="0" width="4" height="4" fill="green"/>
+    <rect x="0" y="4" width="4" height="4" fill="green"/>
+    <rect x="12" y="8" width="4" height="4" fill="green"/>
+    <rect x="4" y="12" width="4" height="4" fill="green"/>
+
+    <rect x="4" y="0" width="4" height="4" fill="#f0d000"/>
+    <rect x="8" y="4" width="4" height="4" fill="#f0d000"/>
+    <rect x="0" y="8" width="4" height="4" fill="#f0d000"/>
+    <path d="M12,16 A4,4,0,0,0,16,12 h-4 Z" fill="#f0d000"/>
+</svg>
